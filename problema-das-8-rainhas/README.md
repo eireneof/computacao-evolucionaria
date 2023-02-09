@@ -4,7 +4,7 @@
 
 O problema das 8 rainhas é um problema de lógica e matemática que consiste em colocar 8 rainhas em um tabuleiro de xadrez de 8x8 de forma que nenhuma delas sejam atacadas pelas demais. O objetivo é encontrar todas as soluções possíveis para esse problema. É considerado um problema clássico de inteligência artificial e programação.
 
-![tabuleiro de xadrez](problema-das-8-rainhas/tabuleiro.png)
+![tabuleiro de xadrez](./tabuleiro.png)
 
 ## Algoritmo de Holland
 
