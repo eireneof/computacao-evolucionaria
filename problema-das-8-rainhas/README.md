@@ -15,3 +15,7 @@ O Algoritmo de Holland é um algoritmo genético, que é um tipo de algoritmo de
 * [Link para o notebook no colab](https://colab.research.google.com/drive/1eAwy11GUStwoN5p-7MjWSNl22YzJkfm3?usp=sharing)
 * [Notebook do repositório](./problema_oito_rainhas.ipynb)
 * [Apenas código .py](./problema_oito_rainhas.py)
+
+<hr>
+
+_Aluna: Eirene de Oliveira Fireman_ 
